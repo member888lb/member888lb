@@ -7,6 +7,7 @@
 - 😄 Pronouns: ... She
 - ⚡ Fun fact: ... I like SciFi shows/movie with a good message or happy resolution just not scary ones like Aliens or Preditors.  I also like to play console games like PlayStation or XBox.
 - ✨ Prior Experience as a Computer Tech and Network Administrator.  I have a Bachelors of Science Degree in Information Technology Management.
+- 👏 I learned web page coding (HTML, CSS, Flash, etc) and put up several websites.
 
 <!---
 member888lb/member888lb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
