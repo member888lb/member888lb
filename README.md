@@ -1,7 +1,10 @@
 - 👋 Hi, I’m Lisa
-- 👀 I’m interested in learning Cybersecurity Analyst and Data Science for starters as I feel they both overlap and complement each other.
-- Both disciplines require concrete technological skills, a knowledge of computers and data information systems, as well as mathematical, analytical, and problem-solving skills to organize large amounts of data or pinpoint any vulnerabilities.
-- 🌱 I’m currently learning Python and SQL to start, then moving on to other tools and methodologies.
+- 👀 I’m interested in learning Cybersecurity and Data Science for starters as I feel they both overlap and complement each other.  I'm honing my skills related to Data Analyst and Data Engineering presently. Both disciplines require concrete technological skills, a knowledge of computers and data information systems, as well as mathematical, analytical, and problem-solving skills to organize large amounts of data or pinpoint any vulnerabilities.
+- 🌱 I’m currently strengthening my skills in Python and SQL programming languages, then moving on to learning Bash, R, Java and C++ next.
+- I am familiar with the following databases: MySQL,  NoSQL, MongoDB, Cassandra, IBM Db2 with PostgreSQL and neo4j to follow next in my learning.
+- I am familiar with Operating Systems: Microsoft Windows, Linux (Kali) and Apple.  Maybe I'll learn Unix, we'll see.
+- On my list of Containerization Tools to learn are Docker and Kubernetes.
+- Im currently playing around with Data Transformation Tools: OpenRefine, ParseHub and Weka. 
 - 💞️ I’m looking to collaborate on projects but have neither defined nor narrowed down the specifics yet.
 - 📫 How to reach me ... via my LinkIn profile or here on Githb.
 - 😄 Pronouns: ... She
