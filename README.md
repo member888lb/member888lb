@@ -8,9 +8,9 @@
 - 💞️ I’m looking to collaborate on projects but have neither defined nor narrowed down the specifics yet.
 - 📫 How to reach me ... via my LinkIn profile or here on Githb.
 - 😄 Pronouns: ... She
-- ⚡ Fun fact: ... I like SciFi shows/movie with a good message or happy resolution just not scary ones like Aliens or Preditors.  I also like to play console games like PlayStation or XBox.
+- ⚡ Fun fact: ... I like SciFi shows/movie with a good message or happy resolution just not scary ones like Aliens or Predator movies.  I also like to play console games like PlayStation and Wii.
 - ✨ Prior Experience as a Computer Tech and Network Administrator.  I have a Bachelors of Science Degree in Information Technology Management.
-- 👏 I self-learned Front-End Web Development (HTML, CSS, Flash, etc) and put up several websites.
+- 👏 Piro Exerience also include self-taugh Front-End Web Development (HTML, CSS, Flash, etc); and I created several websites.
 
 <!---
 member888lb/member888lb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
