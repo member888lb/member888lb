@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning Cybersecurity and Data Science for starters as I feel they both overlap and complement each other.  I'm honing my skills related to Data Analyst and Data Engineering presently. 
 - 🌱 I’m also currently strengthening my skills in Python and SQL programming languages, then moving on to learning R, Java and C++ next.
 - I am familiar with the following databases: MySQL,  NoSQL, MongoDB, Cassandra, IBM Db2 but will add PostgreSQL and neo4j next in my learning routine.
-- I am familiar with Operating Systems: Microsoft Windows, Linux (Kali) and Apple.  
+- I am familiar with Operating Systems: Microsoft Windows, Linux (Kali/Bash) and Apple.  
 - On my list of Containerization Tools to learn are Docker and Kubernetes.
 - Im currently playing around with Data Transformation Tools: OpenRefine, ParseHub and Weka. 
 - 💞️ I’m looking to collaborate on projects but have neither defined nor narrowed down the specifics yet.
