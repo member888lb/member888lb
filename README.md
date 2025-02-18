@@ -6,7 +6,7 @@
 - On my list of Containerization Tools to learn are Docker and Kubernetes.
 - Im currently playing around with Data Transformation Tools: OpenRefine, ParseHub and Weka. 
 - 💞️ I’m looking to collaborate on projects but have neither defined nor narrowed down the specifics yet.
-- 📫 How to reach me ... via my LinkIn profile or here on Githb.
+- 📫 How to reach me ... via my LinkedIn profile at https://www.linkedin.com/in/lisa-boettcher-35997b2/or here on Github.
 - 😄 Pronouns: ... She
 - ⚡ Fun fact: ... I like SciFi shows/movie with a good message or happy resolution just not scary ones like Aliens or Predator movies.  I also like to play console games like PlayStation and Wii.
 - ✨ Prior Experience as a Computer Tech and Network Administrator.  I have a Bachelors of Science Degree in Information Technology Management.
